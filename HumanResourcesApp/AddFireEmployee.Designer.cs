@@ -113,7 +113,7 @@
             this.tbStreet.Margin = new System.Windows.Forms.Padding(2);
             this.tbStreet.Name = "tbStreet";
             this.tbStreet.Size = new System.Drawing.Size(130, 20);
-            this.tbStreet.TabIndex = 33;
+            this.tbStreet.TabIndex = 30;
             // 
             // label4
             // 
@@ -131,7 +131,7 @@
             this.tbPersonalCode.Margin = new System.Windows.Forms.Padding(2);
             this.tbPersonalCode.Name = "tbPersonalCode";
             this.tbPersonalCode.Size = new System.Drawing.Size(130, 20);
-            this.tbPersonalCode.TabIndex = 31;
+            this.tbPersonalCode.TabIndex = 28;
             // 
             // label3
             // 
@@ -212,7 +212,7 @@
             this.dateEmploy.Margin = new System.Windows.Forms.Padding(2);
             this.dateEmploy.Name = "dateEmploy";
             this.dateEmploy.Size = new System.Drawing.Size(130, 20);
-            this.dateEmploy.TabIndex = 48;
+            this.dateEmploy.TabIndex = 33;
             // 
             // label2
             // 
@@ -240,7 +240,7 @@
             this.dateBirthDate.Margin = new System.Windows.Forms.Padding(2);
             this.dateBirthDate.Name = "dateBirthDate";
             this.dateBirthDate.Size = new System.Drawing.Size(130, 20);
-            this.dateBirthDate.TabIndex = 50;
+            this.dateBirthDate.TabIndex = 32;
             // 
             // label7
             // 
@@ -258,7 +258,7 @@
             this.tbCity.Margin = new System.Windows.Forms.Padding(2);
             this.tbCity.Name = "tbCity";
             this.tbCity.Size = new System.Drawing.Size(130, 20);
-            this.tbCity.TabIndex = 52;
+            this.tbCity.TabIndex = 31;
             // 
             // label8
             // 
@@ -276,7 +276,7 @@
             this.dateLayOff.Margin = new System.Windows.Forms.Padding(2);
             this.dateLayOff.Name = "dateLayOff";
             this.dateLayOff.Size = new System.Drawing.Size(130, 20);
-            this.dateLayOff.TabIndex = 54;
+            this.dateLayOff.TabIndex = 34;
             // 
             // cmbEmplStatus
             // 
